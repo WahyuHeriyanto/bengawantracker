@@ -61,7 +61,7 @@ public class Main extends javax.swing.JFrame {
     private void wp() throws FileNotFoundException, IOException{
         while (stat=true){
             addWaypoint(new MyWaypoint("Test 001", event, new GeoPosition(lat,110.8590408)));
-            lat++;
+            lat= lat+0.0000002;
         }
         
         
