@@ -1,3 +1,2 @@
 # bengawantracker
-Bengawan Tracker to UAV navigating;
- Stuck tulung :)
+Bengawan Tracker for UAV navigating;
